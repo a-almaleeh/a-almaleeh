@@ -1,2 +1,2 @@
 👋 Hi, I’m @a-almaleeh
-- Passionate software engineer Skilled in Python, Django, APIs, and automation. Thrives on challenges, learns quickly, and solves problems creatively.
+I build Python/Django backends and the APIs behind them. For four years I've been turning legacy data, Excel models and tricky auth into software people rely on, from the database all the way to deployment. I like talking directly with the people who use what I build. Off the clock, I run my own homelab.
